@@ -1,0 +1,7 @@
+rootProject.name='MRout'
+include ':app'
+include ':login'
+include ':transaction'
+include ':marouter'
+include ':annotion'
+include ':annotion_compiler'
